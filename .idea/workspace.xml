@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="984348c5-e25c-414d-95c0-5e21a8024c5e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/api/patient13455.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/api/patientList.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Header/store/actionCreator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Header/store/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Header/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Header/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Header/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Header_Patient/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Header_Patient/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Header_Patient/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Login/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Login/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MessageContainer/ChatContainer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MessageContainer/ChatContainer/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MessageContainer/MedicalOrderContainer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MessageContainer/MedicalOrderContainer/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MessageContainer/NameListContainer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MessageContainer/NameListContainer/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MessageContainer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/MessageContainer/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/PatCardContainer/PatCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/PatCardContainer/PatCard/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/PatCardContainer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/PatCardContainer/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/PatCardContainer_Patient/PatCard_Patient/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/PatCardContainer_Patient/PatCard_Patient/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/PatCardContainer_Patient/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/PatCardContainer_Patient/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/menu/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/menu/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/iconfont/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="816494462">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer_Patient/PatCard_Patient/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="354" column="40" selection-start-line="354" selection-start-column="40" selection-end-line="354" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer_Patient/PatCard_Patient/style.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1553">
+              <caret line="230" column="13" lean-forward="true" selection-start-line="230" selection-start-column="13" selection-end-line="230" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>doctorId</find>
+      <find>login</find>
+      <find>添加病人</find>
+      <find>{this.</find>
+      <find>366</find>
+      <find>this.get</find>
+      <find>export const MedicineInfo</find>
+      <find>var(--primary</find>
+      <find>select</find>
+      <find>MedicineInf</find>
+      <find>line</find>
+      <find>input</find>
+      <find>杭州</find>
+      <find>handleEditable</find>
+      <find>this.state.editable</find>
+      <find>280</find>
+      <find>doctorre</find>
+      <find>height: 608px</find>
+      <find>height: 66</find>
+      <find>mycontent</find>
+      <find>justify-content: flex-start</find>
+      <find>MessageContent</find>
+      <find>.content</find>
+      <find>justify-content: end</find>
+      <find>onClick</find>
+      <find>onClick=</find>
+      <find>this.handle</find>
+      <find>getMe</find>
+      <find>fetchMe</find>
+      <find>handleMedicineName</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>store.page</replace>
+      <replace>storage</replace>
+      <replace>===</replace>
+      <replace>margin-bottom: -5px;</replace>
+      <replace>margin-bottom: 10px;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/common/PatCard/style.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCard/index.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/statics/iconfont/iconfont.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/statics/message.svg" />
+        <option value="$PROJECT_DIR$/src/statics/reserve.svg" />
+        <option value="$PROJECT_DIR$/src/store.js" />
+        <option value="$PROJECT_DIR$/src/statics/iconfont/iconfont.css" />
+        <option value="$PROJECT_DIR$/src/common/Header/store/index.js" />
+        <option value="$PROJECT_DIR$/src/store/index.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/store/actionCreator.js" />
+        <option value="$PROJECT_DIR$/public/api/patientList.json" />
+        <option value="$PROJECT_DIR$/public/api/patient13455.json" />
+        <option value="$PROJECT_DIR$/src/common/Header/store/actionCreator.js" />
+        <option value="$PROJECT_DIR$/src/common/Header/store/constants.js" />
+        <option value="$PROJECT_DIR$/src/common/MessageContainer/NameListContainer/index.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/PatCard/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/PatCard/store/index.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/PatCard/store/constants.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/PatCard/store/actionCreator.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/PatCard/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/common/Login/style.js" />
+        <option value="$PROJECT_DIR$/src/style.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/PatCard/style.js" />
+        <option value="$PROJECT_DIR$/src/common/Header/style.js" />
+        <option value="$PROJECT_DIR$/src/common/menu/style.js" />
+        <option value="$PROJECT_DIR$/src/common/Header_Patient/style.js" />
+        <option value="$PROJECT_DIR$/src/common/Header_Patient/index.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/style.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/PatCard_Patient/index.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer_Patient/style.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/index.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer/PatCard/index.js" />
+        <option value="$PROJECT_DIR$/src/common/Header/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/common/Header/index.js" />
+        <option value="$PROJECT_DIR$/src/common/Login/index.js" />
+        <option value="$PROJECT_DIR$/src/common/menu/index.js" />
+        <option value="$PROJECT_DIR$/src/common/MessageContainer/NameListContainer/style.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer_Patient/index.js" />
+        <option value="$PROJECT_DIR$/src/common/MessageContainer/style.js" />
+        <option value="$PROJECT_DIR$/src/common/MessageContainer/ChatContainer/style.js" />
+        <option value="$PROJECT_DIR$/src/common/MessageContainer/ChatContainer/index.js" />
+        <option value="$PROJECT_DIR$/src/common/MessageContainer/MedicalOrderContainer/index.js" />
+        <option value="$PROJECT_DIR$/src/common/MessageContainer/MedicalOrderContainer/style.js" />
+        <option value="$PROJECT_DIR$/src/common/MessageContainer/index.js" />
+        <option value="$PROJECT_DIR$/src/storage.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer_Patient/PatCard_Patient/index.js" />
+        <option value="$PROJECT_DIR$/src/common/PatCardContainer_Patient/PatCard_Patient/style.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="Header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="Header" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="Header_Patient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="Header_Patient" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="MessageContainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="MessageContainer" type="462c0819:PsiDirectoryNode" />
+              <item name="ChatContainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="MessageContainer" type="462c0819:PsiDirectoryNode" />
+              <item name="MedicalOrderContainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="MessageContainer" type="462c0819:PsiDirectoryNode" />
+              <item name="NameListContainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="PatCardContainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="PatCardContainer" type="462c0819:PsiDirectoryNode" />
+              <item name="PatCard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="PatCardContainer_Patient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="PatCardContainer_Patient" type="462c0819:PsiDirectoryNode" />
+              <item name="PatCard_Patient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heart-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heart-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.prettier" value="/usr/local/lib/node_modules/prettier" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/common" />
+      <recent name="$PROJECT_DIR$/src/common/PatCardContainer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.storage.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src/common/PatCardContainer/PatCard" />
+    <configuration name="storage.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="storage.js" working-dir="$PROJECT_DIR$/src" />
+    <configuration name="style.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="style.js" working-dir="$PROJECT_DIR$/src/common/MessageContainer/ChatContainer" />
+    <list>
+      <item itemvalue="Node.js.style.js" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.storage.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.storage.js" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="984348c5-e25c-414d-95c0-5e21a8024c5e" name="Default" comment="" />
+      <created>1556001920164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556001920164</updated>
+      <workItem from="1556001921770" duration="36199000" />
+      <workItem from="1556192282588" duration="45395000" />
+      <workItem from="1556687495274" duration="1000" />
+      <workItem from="1557020375724" duration="1853000" />
+      <workItem from="1557720538676" duration="21979000" />
+      <workItem from="1558569485668" duration="3213000" />
+      <workItem from="1559380170372" duration="133193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="241833000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26506025" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964565" weight="0.32908162" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.15946138" side_tool="true" weight="0.19132653" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49964565" weight="0.0" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49964565" weight="0.32908162" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.8405386" visible="true" weight="0.39795917" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.54533154" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.625" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18993622" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964565" weight="0.32908162" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49964565" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.54533154" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.8405386" visible="true" weight="0.015306123" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.15946138" side_tool="true" weight="0.19132653" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49964565" weight="0.32908162" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/store/actionCreator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/store/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Header/store/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/PatCard/store/constants.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/PatCard/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/PatCard/store/actionCreator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/PatCard/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/store/constants.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
+          <folding>
+            <element signature="e#301#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="15333" column="12" selection-start-line="15333" selection-start-column="12" selection-end-line="15333" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="244" column="16" selection-start-line="244" selection-start-column="16" selection-end-line="244" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/PatCard/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1055">
+          <caret line="127" column="16" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-redux/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-redux/src/components/Provider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Header_Patient/store/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Header_Patient/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/PatCard_Patient/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/PatCard_Patient/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1705">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer_Patient/PatCard/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer_Patient/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Login/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1147">
+          <caret line="37" column="64" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Header/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="169" column="21" lean-forward="true" selection-start-line="169" selection-start-column="21" selection-end-line="169" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Header_Patient/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/menu/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="67" column="10" lean-forward="true" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Header/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Header/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Header/store/actionCreator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-423">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/styled-components/dist/styled-components.esm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="318" column="47" selection-start-line="318" selection-start-column="47" selection-end-line="318" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/MessageContainer/NameListContainer/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/MessageContainer/NameListContainer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/menu/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer/PatCard/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="52" column="3" lean-forward="true" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer_Patient/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/MessageContainer/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/MessageContainer/ChatContainer/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="914">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/MessageContainer/MedicalOrderContainer/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/MessageContainer/MedicalOrderContainer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/MessageContainer/ChatContainer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2635">
+          <caret line="85" column="47" lean-forward="true" selection-start-line="85" selection-start-column="47" selection-end-line="85" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/MessageContainer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer_Patient/PatCard_Patient/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1553">
+          <caret line="230" column="13" lean-forward="true" selection-start-line="230" selection-start-column="13" selection-end-line="230" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/storage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <marker date="1560396131610" expanded="true" signature="5549:5573" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/PatCardContainer_Patient/PatCard_Patient/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="354" column="40" selection-start-line="354" selection-start-column="40" selection-end-line="354" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

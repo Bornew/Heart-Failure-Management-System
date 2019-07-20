@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "patienList": [
+    {
+      "name": "张三",
+      "ID": "13455",
+      "gender": "男",
+      "age": 27,
+      "phone": "15857139873",
+      "email": "603777271@qq.com",
+      "enterTime": "2017-12-20",
+      "drug": "XXXXXX：每天1粒；XXXXX ：每天饭后一颗药；等等等等",
+      "highPressure": 160,
+      "lowPressure": 100,
+      "heartRate": 68
+    },
+    {
+      "name": "李四",
+      "ID": "1341",
+      "gender": "男",
+      "age": 25,
+      "phone": "15134546575",
+      "email": "60346661@qq.com",
+      "enterTime": "2017-12-20",
+      "drug": "XXXXXX：每天1粒；XXXXX：每天一颗",
+      "highPressure": 120,
+      "lowPressure": 90,
+      "heartRate": 80
+    },
+    {
+      "name": "王五",
+      "ID": "13456",
+      "gender": "女",
+      "age": 25,
+      "phone": "15134546523",
+      "email": "60346661@qq.com",
+      "enterTime": "2017-12-20",
+      "drug": "XXXXXX：每天1粒",
+      "highPressure": 140,
+      "lowPressure": 102,
+      "heartRate": 70
+    }
+  ],
+  "chatList": [
+    "13455", "1344", "13456"
+  ]
+}
